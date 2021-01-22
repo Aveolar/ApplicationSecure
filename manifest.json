@@ -1,0 +1,25 @@
+
+{
+  "short_name": "Secure Farmer",
+  "name": "Secure Farmer",
+  "description" : "A farm app that let's farmers keep in touch with their farms.",
+  "icons": [
+    {
+      "src": "/assets/images/icons192.png",
+      "type": "image/png",
+      "sizes": "194x192"
+    },
+    {
+      "src": "/assets/images/icons512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "securefarmer.com.ng/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#000000",
+  "orientation" : "portrait",
+    "lang" : "English"
+}

@@ -1,0 +1,1140 @@
+notification-text{
+    
+}
+.add-btn{
+    border :1px solid darkslategrey;;
+    border-radius: 2px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:20px;
+    padding-left:20px;
+    background-color: darkslategrey;
+    color: white;
+    margin-top:10px;
+    margin-left: -60px;
+}
+.history-btn{
+     border :1px solid darkslategrey;;
+    border-radius: 2px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:20px;
+    padding-left:20px;
+    background-color: darkslategrey;
+    color: white;
+    margin-top:10px;
+    margin-left: 65px;
+    margin-bottom: 10px;
+    }
+.weather-div{
+    background:#008081;
+    color:white;
+    position:relative;
+    padding:20px;
+    margin-bottom:5px;
+}
+.weather-degree{
+    color:white;
+    font-size:50px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: -30px;
+}
+
+
+.button-panel{
+    padding-left:10%;
+}
+.c{
+    color: white;
+}
+.celcius{
+    font-size:180px;
+}
+.weather-text{
+    color:white;
+    font-size:50px;
+
+}
+
+.button-panel{
+    padding-left:10%;
+}
+
+.transaction-details.show{
+    background-color:gainsboro;
+    padding-top:30px;
+    padding-bottom:30px;
+    height:auto;
+    margin-bottom:10px;
+      margin-top:10px;
+    
+}
+.transaction-details{
+    display:none;
+    transition:all 500ms linear;
+}
+.cost-form input{
+    padding-top:6px;
+     padding-bottom:6px;
+    margin-top:5px;
+  width:90%;
+  border:1px solid lightblue;
+  border-radius:5px;
+    
+}
+
+.history{
+    display:inline;
+    margin-left:1.5%;
+    margin-bottom: 5%;
+}
+.hist-btn{
+    display: inline;
+}
+.history-panel.show{
+   display: block; 
+}
+.history-panel{
+    display: none;
+}
+
+.weather-container{
+    height:400px;
+    background-image:url('./farm1.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    margin-top:-50px;
+}
+.weather-container2{
+    height:400px;
+    
+    
+}
+.marg{
+    margin-top: 60px;
+}
+.weather-small{
+  background-image:url('./farm2.png'); 
+    width:200px;
+    height:150px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top:10px;
+    
+    
+}
+.weather-text1{
+    color:white;
+    font-size:50px;
+    text-transform: uppercase;
+
+}
+.btn-profile{
+    background: #EB7E31;
+    color:white;
+}
+.frm-group{
+    background: gainsboro;
+    height:200px;
+    padding:20px;
+    position: relative;
+}
+.btnpan{
+    position:relative;
+    
+}
+.frm-group input{
+    color:black;
+    background:transparent;
+    border:none;
+}
+.profile-icon2{
+    font-size: 200px;
+    color:black;
+}
+.profile-dashboard{
+    position: relative;
+padding-top:20px;
+    height:200px;
+    background-color:gainsboro;
+}
+/*admin dashboard begins*/
+.user-profile-icon{
+    position: relative;
+    color:black;
+    background: white;
+    height:100px;
+}
+
+.user-p{
+    display: none;
+}
+.user-p.active{
+    top:80px;
+    padding: 40px;
+    position:absolute;
+    margin-left: -30px;
+    width:250px;
+    height: 170px;
+    background-color: gainsboro;
+    opacity: 0.8;
+    border:1px solid gainsboro;
+    border-radius:5px;
+    box-shadow: 10px;;
+}
+.user-ic{
+   
+    color:gray;
+    display: inline;
+    position: absolute;
+    
+}
+.user-text1{
+    margin-bottom: 20px;
+    color:grey; 
+    
+}
+.user-text3:hover{
+    color:red;
+}
+.user-text3{
+    cursor: pointer;
+    margin-bottom: 20px;
+    color:black; 
+    
+}
+
+.admin-name{
+   position: relative;
+    color:blanchedalmond;
+    margin-top:-15px;
+    margin-left:70px;
+    font-size: 20px;
+}
+.table{
+    width:80PX;
+}
+.view-member{
+    height:0px;
+    display: none;
+    transition: all 100ms linear;
+}
+.view-member.active{
+    display: block;
+    color:black;
+ border:1px solid transparent;
+    border-radius:2px;
+    padding-top: 70px;
+    margin-left:4%;
+    margin-right: 4%;
+    height:auto;
+  background-color: white;
+    word-break: break-word;
+    table-layout:fixed;
+    
+           
+}
+.table td{
+    color:red;
+    max-width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/*sign up container*/
+/*message-panel*/
+.s-right{margin-right:200px;}
+.msg-form input{
+    height: 40px;
+    width:70%;
+    background: white;
+    
+    
+}
+.msg textarea{
+    margin-left:-15px ;
+    height:300px;
+    width:100%;
+    font-family: monospace;
+}
+.msg input{
+
+    height:400px;
+    width:90%;
+}
+.msg{
+    padding-left: 20px;
+}
+.msg-btn{
+    border: 1px solid transparent;
+    border-radius: 0.5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    color: white;
+    background-color: green;
+}
+.msg-form{
+    padding-left:9%;
+}
+.message-panel{
+  height:0px;
+    
+    display: none;
+}
+    
+.message-panel.active{
+    border:1px solid transparent;
+    border-radius:2px;
+    padding-top: 70px;
+    margin-left:6%;
+    margin-right: 5%;
+    display: block;
+   background-color:darkgray;
+        height:700px;
+    transition: all 100ms linear;
+        
+    
+}
+/*message-panel ends*/
+.btn-plus{
+   height: 40px;
+    width:50px;
+    background: transparent;
+    
+    font-size: 30px;
+    outline: none;
+}
+.farmer-signup{
+    padding-left: 0%;;
+}
+.toggle-panel p{
+    color:white;
+    margin-bottom: 20px;
+}
+.sign-up-btn{
+   border: 1px solid white;
+    color:white;
+    border-radius:3px;
+    background-color: green;
+    margin-left: 4%;
+    margin-top: 2%;
+    height: 50px;
+}
+.farmer-signup input{
+    
+
+    outline: 0;
+  border-width: 0 0 0.5px;
+  border-color: black;
+   border-bottom-color:black;
+    width:1000px;
+    margin-bottom: 8px;
+    margin-left:10px;
+    height: 30px;
+    width:400px;
+}
+.objective{
+    display: none;
+}
+.objective.active{
+    transition: all 100ms ease ;
+    display: block;
+}
+.delete{
+    display:none;
+}
+.delete.active{
+    display: block;
+}
+.pricetag{
+    display: none;
+}
+.pricetag.active{
+    display: block;
+}
+.objective input{
+    width:200px;
+    padding: 10px;
+}
+.objective button{
+  width:100px;
+    padding: 8px;  
+}
+.objective select{
+    width:200px;
+    padding: 10px;
+}
+.objective select option{
+    font-family: cursive;
+}
+.bt1{
+ color: white;
+    background-color: orange;
+ border:1px solid transparent;
+    border-radius: 0.5px;   
+}
+.bt2{
+    border:1px solid transparent;
+    border-radius: 0.5px;
+    color: white;
+    background-color: green;
+}
+.bt3{
+ border:1px solid transparent;
+    border-radius: 0.5px;
+    color: white;
+    background-color: red;   
+}
+.bt5{
+    width:100px;
+    padding: 10px;  
+  border:1px solid transparent;
+    border-radius: 1px;
+    color: white;
+    background-color: dodgerblue;   
+}
+.bt5:hover{
+  cursor: pointer;
+}
+.pricetag input{
+  padding: 10px;
+    width:400px;
+}
+.pricetag button{
+    width:100px;
+     border:1px solid transparent;
+    border-radius: 0.5px;
+    color: white;
+    background-color: green;
+  padding: 8px;  
+}
+.delete input{
+    width:400px;
+    padding: 10px;
+}
+.delete button{
+    width:100px;
+     border:1px solid transparent;
+    border-radius: 0.5px;
+    color: white;
+    background-color: red;
+  padding: 8px; 
+}
+.view-pan{
+    margin-top: -10px;
+    margin-bottom: 10px;
+    box-shadow: 5px 10px #888888;
+    margin-left: 35%;
+    padding-top:50px;
+    width:400px;
+    height:200px;
+    background: whitesmoke;
+    font-family: 'Poppins' ;
+}
+.admin-register button{
+ height:50px;
+    width:150px;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    background: green;
+    margin-top: 5px;
+}
+.admin-register-panel input{
+  width:90%;  
+    height:50px;
+    margin-top: 4px;
+}
+.admin-register-panel.show{
+    display: block;
+}
+.admin-register-panel{
+    display: none;
+}
+.message-boarder{
+    display: none;
+}
+.message-boarder.active{
+    position: absolute;
+    z-index: 200;
+    background: grey;
+    height: auto;
+    color: white;
+    width: 300px;
+    margin-top: 20px;
+    margin-left:-130px;
+    border-top: 1px solid white;
+    border:1px solid black;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+.frm-groups input{
+    width:90%;
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+    border: 1px solid white;
+}
+.frm-groups input:hover{
+    width:90%;
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+    border: 1px solid white;
+}
+.frm-groups button{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border:1px solid white;
+    border-radius: 2px;
+    background-color: cadetblue;
+    color: white;
+}
+/*for responsivenes of sign up inputs**/
+@media screen and (max-width: 812px) {
+      .weather-degree{
+    color:white;
+    font-size:40px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: -10px;
+}
+    .weather-text{
+    color:white;
+    font-size:100px;
+    text-transform: uppercase;
+
+}
+    .celcius{
+    font-size:90px;
+}
+    .history-btn{
+     border :1px solid darkslategrey;;
+    border-radius: 2px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:20px;
+    padding-left:20px;
+    background-color: darkslategrey;
+    color: white;
+    margin-top:10px;
+    margin-left: -10px;   
+    }
+    .add-btn{
+    border :1px solid darkslategrey;;
+    border-radius: 2px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:20px;
+    padding-left:20px;
+    background-color: darkslategrey;
+    color: white;
+    margin-top:10px;
+    margin-left: -20px;
+}
+    .message-boarder{
+        display: none;
+    }
+    .message-boarder.active{
+    position: absolute;
+    z-index: 200;
+    background: grey;
+    height: auto;
+    color: black;
+    width: 300px;
+    margin-top: 20px;
+    margin-left:-250px;
+    border-top: 1px solid white;
+    border:1px solid black;
+    border-radius: 5px;
+    opacity: 1;
+}
+    .view-pan{
+    margin-top: -10px;
+    margin-bottom: 10px;
+    box-shadow: 5px 10px #888888;
+    margin-left:1px; ;
+    padding-top:50px;
+    width:400px;
+    height:200px;
+    background: whitesmoke;
+    font-family: 'Poppins' ;
+}
+    .farmer-signup input{
+     outline: 0;
+  border-width: 0 0 0.5px;
+  border-color: blue;
+   border-bottom-color:black;
+    width:200px;
+    margin-bottom: 8px;
+   margin-left:-130px;
+    height: 30px;
+    width:300px;
+}
+    .signuptext{
+        color: black;
+        margin-left: -23%;
+    }
+    .toggle-panel.active{
+    border:1px solid transparent;
+    border-radius:2px;
+    padding-top: 70px;
+    margin-left:4%;
+    margin-right: 4%;
+    display: inline-block;
+  background-color:gainsboro;
+        height:500px;
+        color:gray;
+    transition: all 100ms ease ;
+        width:500px;
+    
+    }  
+    .sign-up-btn{
+   border: 1px solid white;
+    color:white;
+    border-radius:3px;
+    background-color:green;
+    margin-left: -25%;
+    margin-top: 2%;
+    height: 50px;
+}
+}
+
+/*for responsivenes of sign up inputs ends**/
+.toggle-panel{
+   display: none;
+    height:0px;
+     transition: all 700ms linear;
+     
+}
+.toggle-panel.left{
+    height:0px;
+    display:none;
+    transition: all 700ms linear;
+}
+.toggle-panel.active{
+    border:1px solid transparent;
+    border-radius:2px;
+    padding-top: 70px;
+    margin-left:4%;
+    margin-right: 4%;
+    display: inline-block;
+  background-color:white;
+        height:500px;
+        color:gray;
+    transition: all 100ms ease ;
+    
+    }  
+.dashboard-container{
+  margin-left 
+    
+}
+.sign-up-panel{
+    background-color: green;
+    height:500px;
+    display:block;
+   
+    z-index: -1;
+
+}
+/*sign up container ends*/
+.color-1{
+    position: absolute;
+    background-color:skyblue;
+    color:white;
+    border-right:2px solid white; 
+}
+.color-2:hover{opacity:0.9;}
+
+.color-1:hover{opacity:0.9;}
+
+
+.color-2{
+    position: absolute;
+    cursor: pointer;
+  background-color:green;
+    color:white; 
+     border-right:2px solid white; 
+}
+.color-3{
+    position: relative;
+    background-color: dodgerblue;
+    color:white;}
+.color-3:hover{
+    
+    opacity:0.9;}
+
+    /*admin login*/
+.admin-login button{
+    width:250px;
+    border:1px solid skyblue;
+    border-radius: 5px;
+    margin-left: ;
+    background-color: cadetblue;
+    color:white;
+}
+.admin-login{
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+.admin-login input:focus{
+     border:1px solid saddlebrown;
+ color:black;
+}
+    .admin-login input {
+        outline: none;
+        padding-top: 7px;
+        padding-bottom: 7px;
+      text-align: left;
+       
+        margin-bottom: 20px;
+        border:1px solid cadetblue;
+        width:250px;
+        color: gray;
+       border-radius:2px;
+    }
+    /*admin login ends*/
+
+
+/*admin dashboard ends*/
+.bord1{
+    padding:20px;
+    cursor: pointer;
+    opacity: 0.8;
+    height: 80px;
+    background-color: darkred;
+    color:white;
+}
+.bord1:hover{
+    opacity:0.8;
+    
+    transition: linear 2ms;
+}
+.bord2{
+    padding:20px;
+      height: 80px;
+    opacity: 0.8;
+  background-color: orange;
+    color:white;  
+}
+.bord3{
+    padding:20px;
+      height: 80px;
+ background-color:darkslategray;
+    color:white;    
+}
+
+.notification{
+    padding-top:10px;
+    background:crimson;
+    border-radius:50%;
+    color:white;
+    margin-left:81%;
+    margin-top:-20px;
+ position:absolute;
+ width:35px;
+ height:35px;
+}
+.fa-bell{
+    margin-left:80%;
+  color:#EB7E31;
+cursor:pointer;
+    position: absolute;
+    margin-top: -8px;
+ 
+}
+
+.toggle-button{
+    left: 50px;
+   position: absolute;
+    margin-top:-8px;
+    
+}
+
+
+
+.mmenu{
+    display:block;
+    width:30px;
+    height:5px;
+    background:#EB7E31;
+     cursor:pointer;
+     margin: 5px 1.5%;
+}
+.toggle-button:hover{
+    opacity:0.8;
+}
+
+.header{
+    padding: 20px;
+    position:relative;
+    background:#3f301d;
+    height:70px;
+    width:100%;
+    
+}
+.dashboard-message{
+   color:grey; 
+    margin-top:10px;
+   position:relative;
+    padding:20px;
+    width:100%;
+    
+}
+.dash-header{
+    height:15%;
+    background:whitesmoke;
+    margin-top:-2%;
+    width:100%;
+    
+}
+.m2{
+    margin-left:-1.5%;
+  margin-top:40px;
+ position:relative;
+ padding:20px;   
+}
+.task{
+    margin-left:-10%;
+   padding:5px; 
+   margin-bottom:20px;
+}
+.bord{
+    border-radius:10px;
+    padding:5px;
+    border:2px solid #f2f2f2;
+    margin-right:7.2%;
+    margin-left:0.5%;
+}
+.fa-long-arrow-right{
+     margin-left:60%;
+     color:grey;
+}
+.m3{
+    color:gainsboro;
+}
+.side-nav{
+    background:#4c4942;
+    position:absolute;
+    height:100%;
+    width:20%;
+    margin-top:0px;
+    z-index: 1;
+    left:-300px;
+    padding:3%;
+    transition: all 500ms linear;
+}
+
+
+ 
+
+.side-nav.active{
+    left:0px;
+     transition: all 700ms linear;
+     background:#3f301d;
+}
+
+
+
+.customHr {
+  margin-left:1%;
+    width: 100%;
+    font-size: 1px;
+    color: grey;
+    line-height: 1px;
+    background-color: darkgrey;
+    margin-top: -6px;
+    margin-bottom: 10px;
+}
+.arrow{
+    display:inline;
+}
+.main{
+  transition: all 500ms linear; 
+  animation-delay: 2s;
+    margin-bottom: 10%;
+}
+.main.active{ 
+    margin-left:20%;
+   transition: all 500ms linear;   
+}
+@media screen and (max-width: 601px) {
+  .main.active {
+    margin-left:50%;
+    margin-right:-50%;
+     
+  }
+}
+.side-nav ul li{
+    list-style:none;
+    color:white;
+    margin-top:10px;
+    
+}
+
+.side-nav ul  a{
+    color:white;
+}
+.side-nav ul a:hover{
+    text-decoration:none;
+    opacity:0.8;
+    cursor:pointer;
+}
+.faside{
+    margin-right:5px;
+}
+.side-nav .fa-user-circle{
+    color:#EB7E31;
+    
+    border:none;
+}
+.side-nav.location a{
+    color:white;
+    
+}
+.side-nav.location{
+    top:-39px;
+}
+.farm-1{
+width:120%;
+height:400px;
+left:-10%;
+border: solid 5px whitesmoke;
+border-radius:10px;
+}
+.farm-2{
+    
+}
+.calendar-section{
+    width:100%;
+    margin-left:1%;
+}
+
+
+.weather1{
+    
+ 
+height:200%;
+width:100%;
+}
+.wr{
+    color:white;
+}
+.img1{
+     background:url('./farm2.png'); 
+     height:200%;
+width:100%;
+     
+}
+.str{
+    margin-top:90px;
+}
+.Fname{
+    margin-top:0px;
+    padding:10px;
+     padding-left:1%;
+    background-color:gainsboro;
+    height:120px;
+}
+.finance{
+    font-size:20px;
+    padding:5px;
+    margin-left:1%
+        
+}
+.plus{
+    display: block;
+    font-size:70px;
+    margin-left:1%;
+    color:darkgrey;
+    margin-bottom:0.5%;
+    cursor: pointer;
+}
+.plus:hover{
+    opacity: 0.5;
+}
+.blue-bord{
+    margin-left:1%;
+    background-color: #36096d;
+background-image: linear-gradient(325deg, #36096d 1%, #37d5d6 100%);
+    color:white;
+    padding-left:100px;
+    width:98%;
+    height:20%;
+   padding-top:20px;
+    padding-bottom: 20px;
+    border-radius:20px;
+}
+.blue-bord:hover{
+    opacity:2;
+    cursor:pointer;
+}
+.tools{
+margin-left:-2px;
+}
+.b1{
+    
+    border:solid 1px lightgray;
+    margin-left:5px;
+    border-radius:10px;
+    padding:2%;
+    margin-left:0px;
+    margin-right: px;
+   
+}
+.b1:hover{
+    background:gainsboro;
+    cursor:pointer;
+}
+.copyright{
+    
+}
+.arr{
+    font-size:20px;
+    margin-left:50%;
+    color:red;
+  
+}
+.white{
+    margin-bottom:20px;
+    font-size:200%
+}
+.white2{
+    margin-bottom:15px;
+    font-size:120%;
+}
+.red{
+    color:red;
+}
+.s1{
+    background:whitesmoke;
+}
+.s2{
+   
+   margin-top:5%;
+  
+}
+.s3{
+ margin-top:5%;
+   background:whitesmoke;   
+}
+.or{
+    background:#EB7E31;
+    margin-top:10%;
+}
+.tools2 a{
+text-decoration:none;
+color:darkslategrey;
+margin-left:10%;
+}
+.tools2 a:hover{
+text-decoration:none;
+color:darkslategrey;
+margin-left:10%;
+}
+.tools-dash{
+   
+    margin-top:0px;
+    padding:10px;
+     padding-left:1%;
+    background:gainsboro;
+    height:120px;
+
+}
+.tools2{
+    color:darkslategray;
+    height:50px;
+    border: 1px solid darkslategrey;
+    border-radius:10px;
+    margin-top:1.5%;
+    background:gainsboro;
+    padding:10px;
+   
+}
+.tools2:hover{
+    cursor:pointer;
+    
+}
+.wraper{
+     margin-top:5%;
+}
+.section-2{
+    color:grey;
+    padding:10px;
+    margin-top:10px;
+    margin-left:6%;
+}
+@media screen and (max-width:800px) {
+.side-nav .toggle-button{
+    left:220px;
+    position:absolute;
+    top:-8%;
+    transition: all 500ms linear;
+}
+}
+@media screen and (max-width: 800px) {
+    .side-nav{
+    background:#3f301d;
+    position:absolute;
+    height:100%;
+    width:20%;
+    margin-top:0px;
+    z-index: 1;
+    left:-200px;
+    padding:3%;
+    transition: all 500ms linear;
+}
+}
+@media screen and (max-width: 667px) {
+    .btn-2{
+        width:70px;
+        margin-left:-3%;
+        background:#ff9933
+    }
+}
+@media screen and (max-width: 800px) {
+  .side-nav.active {
+    width:50%;
+        left:0px;
+        transition: all 500ms linear;
+  }
+}
+@media screen and (max-width:375px) and (max-height:667px){
+     .weather-degree{
+    color:white;
+    font-size:40px;
+    position: absolute;
+    margin-top: 250px;
+}
+    .text-panel{
+        margin-top: 50px;
+    }
+    .c{
+    color: white;
+}
+.celcius{
+    font-size:80px;
+}
+.weather-text{
+    color:white;
+    font-size:90px;
+
+}
+    .weather-div{
+       height: 400px;
+    }
+}
+.st-input{
+    border :1px solid;
+    border-radius:5px;
+    width:250px;
+    height:30px;
+}

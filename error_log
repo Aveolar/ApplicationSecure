@@ -1,0 +1,31 @@
+[11-Nov-2019 16:12:58 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/securefa/public_html/application/controllers/Login.php on line 42
+[12-Nov-2019 11:39:38 Africa/Lagos] PHP Parse error:  syntax error, unexpected '<' in /home/securefa/public_html/application/views/Admin/templates/head.php on line 23
+[12-Nov-2019 11:53:41 Africa/Lagos] PHP Fatal error:  Call to undefined function verify() in /home/securefa/public_html/application/controllers/Adminlogin.php on line 21
+[12-Nov-2019 11:53:46 Africa/Lagos] PHP Fatal error:  Call to undefined function verify() in /home/securefa/public_html/application/controllers/Adminlogin.php on line 21
+[12-Nov-2019 11:53:46 Africa/Lagos] PHP Fatal error:  Call to undefined function verify() in /home/securefa/public_html/application/controllers/Adminlogin.php on line 21
+[12-Nov-2019 11:53:48 Africa/Lagos] PHP Fatal error:  Call to undefined function verify() in /home/securefa/public_html/application/controllers/Adminlogin.php on line 21
+[12-Nov-2019 11:53:52 Africa/Lagos] PHP Fatal error:  Call to undefined function verify() in /home/securefa/public_html/application/controllers/Adminlogin.php on line 21
+[12-Nov-2019 11:53:53 Africa/Lagos] PHP Fatal error:  Call to undefined function verify() in /home/securefa/public_html/application/controllers/Adminlogin.php on line 21
+[13-Nov-2019 09:00:53 Africa/Lagos] PHP Fatal error:  Call to undefined function verify() in /home/securefa/public_html/application/controllers/Adminlogin.php on line 21
+[13-Nov-2019 15:44:12 Africa/Lagos] PHP Parse error:  syntax error, unexpected '<' in /home/securefa/public_html/application/views/Admin/templates/head.php on line 23
+[13-Nov-2019 16:01:36 Africa/Lagos] PHP Parse error:  syntax error, unexpected '<' in /home/securefa/public_html/application/views/Admin/templates/head.php on line 23
+[13-Jan-2020 17:33:34 Africa/Lagos] PHP Fatal error:  Call to undefined function post() in /home/securefa/public_html/application/controllers/Admin.php on line 68
+[13-Jan-2020 17:35:15 Africa/Lagos] PHP Fatal error:  Call to undefined function post() in /home/securefa/public_html/application/controllers/Admin.php on line 68
+[13-Jan-2020 17:37:34 Africa/Lagos] PHP Fatal error:  Call to undefined function post() in /home/securefa/public_html/application/controllers/Admin.php on line 68
+[14-Jan-2020 01:05:59 Africa/Lagos] PHP Parse error:  syntax error, unexpected '<' in /home/securefa/public_html/application/views/Dashboard/userFinance.php on line 30
+[14-Jan-2020 01:28:30 Africa/Lagos] PHP Parse error:  syntax error, unexpected '<' in /home/securefa/public_html/application/views/Dashboard/userFinance.php on line 32
+[17-Jan-2020 21:09:51 Africa/Lagos] PHP Parse error:  syntax error, unexpected ',' in /home/securefa/public_html/application/controllers/Dashboard.php on line 55
+[29-Jan-2020 04:47:22 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[29-Jan-2020 04:47:22 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[29-Jan-2020 04:47:31 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[29-Jan-2020 04:49:21 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[29-Jan-2020 04:49:21 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[29-Jan-2020 04:50:21 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[29-Jan-2020 04:55:52 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[13-Feb-2020 17:11:25 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[18-Feb-2020 15:47:44 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[18-Feb-2020 16:14:18 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[18-Feb-2020 16:54:51 Africa/Lagos] PHP Fatal error:  Call to a member function getHistory() on null in /home/securefa/public_html/application/controllers/Dashboard.php on line 23
+[28-Feb-2020 17:15:29 Africa/Lagos] PHP Fatal error:  Call to undefined method Admin_model::loadinput() in /home/securefa/public_html/application/controllers/Dashboard.php on line 32
+[28-Feb-2020 17:17:54 Africa/Lagos] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/securefa/public_html/application/views/Dashboard/userFinance.php on line 27
+[28-Feb-2020 18:39:55 Africa/Lagos] PHP Fatal error:  Call to a member function userdata() on null in /home/securefa/public_html/application/controllers/Adminlogin.php on line 10

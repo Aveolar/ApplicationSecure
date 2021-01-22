@@ -1,0 +1,249 @@
+.login-solar{
+    height:300px;
+    width:103% ;
+    margin-left:-20px;
+    opacity:1x;
+    background-size: cover;
+    
+}
+.login-form{
+        margin-top: 150px;
+        margin-left: 1%;
+    }
+.login-logo{
+  margin-left:550px;; 
+  margin-top:100px;
+}
+
+.login-password-2{
+     background:transparent;
+    border:none;
+    border-bottom:1px solid orange;
+    width:300px;
+     margin-left:510px;
+    display:inline;
+    margin-top:10px;
+    outline: none;
+}
+.text-2{
+    outline: none;
+     background:transparent;
+    border:none;
+    border-bottom:1px solid orange;
+    width:300px;
+     margin-left:510px;
+    display:inline;
+    margin-top:10px;
+}
+.overlay{
+    ;  
+}
+.continue-btn{
+    width:300px;
+    margin-top:10px;
+    background: #EB7E31;
+    color:white;
+    display:inline-block;
+    margin-left:510px;
+    height: 50px;
+}
+.fa-phone{
+ margin-left:505px;
+ position:absolute;
+ display:inline;
+}
+.fa-lock{
+    display:inline;
+    position:absolute;
+    margin-top:40px;
+    margin-right:-200px;
+}
+.social-media{
+   margin-top:5%; 
+    margin-left: 1%;
+}
+.c{
+    display:inline;
+    color:orange;
+    margin-left:30px;
+    border :1px solid;
+        border-radius:100%;
+        padding:12px;
+   
+}
+@media screen and (max-width: 736px) {
+  .login-logo{
+  margin-left:25%; 
+  margin-top:10px;
+      margin-bottom: 5%;
+} 
+.login-password-2{
+    position:relative;
+     background:transparent;
+    border:none;
+    border-bottom:1px solid orange;
+    width:300px;
+     margin-left:9%;
+    display:inline;
+    margin-top:20px;
+    outline: none;
+}
+
+.login-solar{
+    height:300px;
+    width:110% ;
+    
+    opacity:0.5px;
+}
+.continue-btn{
+    height: 58px;
+    width:300px;
+    margin-top:60px;
+    background:#EB7E31;
+    color:white;
+    display:inline-block;
+    margin-left:9%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.fa-lock{
+    
+    display:inline;
+    position:absolute;
+    margin-top:18px;
+    margin-right:100px;
+}
+.social-media{
+   margin-top:8%;  
+}
+.c{
+    display:inline;
+    color:#EB7E31;
+    margin-left:30px;
+    border :1px solid;
+        border-radius:100%;
+        padding:12px;
+   
+}
+    .login-form{
+        margin-top: 150px;
+        margin-left: 1%;
+    }}
+
+@media screen and (max-width: 768px) and (max-height:812px) {
+  .login-logo{
+  margin-left:25%; 
+  margin-top:10px;
+      margin-bottom: 5%;
+} 
+.login-password-2{
+    position:relative;
+     background:transparent;
+    border:none;
+    border-bottom:1px solid orange;
+    width:300px;
+     margin-left:9%;
+    display:inline;
+    margin-top:40px;
+    outline: none;
+}
+
+.login-solar{
+    height:300px;
+    width:110% ;
+    
+    opacity:0.5px;
+}
+.continue-btn{
+    height: 58px;
+    border:1px solid #EB7E31;
+    border-radius:20px;
+    width:300px;
+    margin-top:140px;
+    background:#EB7E31;
+    color:white;
+    display:inline-block;
+    margin-left:9%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.fa-lock{
+    
+    display:inline;
+    position:absolute;
+    margin-top:18px;
+    margin-right:100px;
+}
+.social-media{
+   margin-top:8%;  
+}
+.c{
+    display:inline;
+    color:#EB7E31;
+    margin-left:30px;
+    border :1px solid;
+        border-radius:100%;
+        padding:12px;
+   
+}
+    .login-form{
+        margin-top: 150px;
+        margin-left: 1%;
+    }}
+@media screen and (max-width: 375px) and (max-height:667px) {
+    .login-logo{
+  margin-left:25%; 
+  margin-top:10px;
+      margin-bottom: 5%;
+} 
+.login-password-2{
+    position:relative;
+     background:transparent;
+    border:none;
+    border-bottom:1px solid orange;
+    width:300px;
+     margin-left:9%;
+    display:inline;
+    margin-top:40px;
+    outline: none;
+}
+
+.login-solar{
+    height:300px;
+    width:110% ;
+    
+    opacity:0.5px;
+}
+.continue-btn{
+    height: 58px;
+    border:1px solid #EB7E31;
+    border-radius:20px;
+    width:300px;
+    margin-top:50px;
+    background:#EB7E31;
+    color:white;
+    display:inline-block;
+    margin-left:9%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.fa-lock{
+    
+    display:inline;
+    position:absolute;
+    margin-top:18px;
+    margin-right:100px;
+}
+.social-media{
+   margin-top:8%;  
+}
+.c{
+    display:inline;
+    color:#EB7E31;
+    margin-left:30px;
+    border :1px solid;
+        border-radius:100%;
+        padding:12px;
+   
+}
+    .login-form{
+        margin-top: 150px;
+        margin-left: 1%;
+    }}
