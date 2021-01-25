@@ -1,0 +1,61 @@
+.brand-logo{
+  margin-left:40%;  
+}
+.welcomemessage{
+    margin-top:40%; 
+    margin-left:-22%; 
+}
+
+.transition-fade{
+  transition: .4s;
+opacity:1;  
+}
+html.is-animating.transition-fade{
+    opacity:0;
+}
+.splash-wrapper{
+   width:105%;
+   height:659px;
+    background:#e49f1e;
+}
+@media screen and (min-width:1024px) {
+   .splash-wrapper{
+   width:1024px;
+   height:1366px;
+    background:#e49f1e;
+} 
+.brand-logo{
+  margin-left:40%;
+margin-top:40%;  
+}
+.welcomemessage{
+    margin-top:80%; 
+    margin-left:-30%;
+   
+}
+}
+@media screen and (max-width:667px) {
+    .btn-2{
+        width:100px;
+    }
+        
+    
+}
+@media screen and (min-width:375px) {
+   .splash-wrapper{
+   width:375px;
+   height:667px;
+    background:#e49f1e;
+} 
+.brand-logo{
+    width:200px;
+  margin-left:20%;
+margin-top:40%;  
+}
+.welcomemessage{
+    margin-top:20%; 
+    margin-left:45px;
+     width:260px;
+   
+}
+}

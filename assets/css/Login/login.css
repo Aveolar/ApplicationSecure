@@ -1,0 +1,101 @@
+.login-solar{
+    height:300px;
+    width:103% ;
+    margin-left:-20px;
+    opacity:0.5px;
+}
+.login-logo{
+  margin-left:550px;; 
+  margin-top:15px;
+}
+
+.login-password-2{
+     background:transparent;
+    border:none;
+    border-bottom:1px solid orange;
+    width:300px;
+     margin-left:510px;
+    display:inline;
+    margin-top:10px;
+}
+.text-2{
+     background:transparent;
+    border:none;
+    border-bottom:1px solid orange;
+    width:300px;
+     margin-left:510px;
+    display:inline;
+    margin-top:10px;
+}
+.overlay{
+    background:orange;  
+}
+.continue-btn{
+    width:300px;
+    margin-top:10px;
+    background: orange;
+    color:white;
+    display:inline-block;
+    margin-left:510px;
+}
+.fa-phone{
+ margin-left:505px;
+ position:absolute;
+ display:inline;
+}
+.fa-lock{
+    display:inline;
+    position:absolute;
+    margin-top:40px;
+    margin-right:-200px;
+}
+@media screen and (max-width: 736px) {
+  .login-logo{
+  margin-left:25%; 
+  margin-top:15px;
+} 
+.login-password-2{
+    position:relative;
+     background:transparent;
+    border:none;
+    border-bottom:1px solid orange;
+    width:300px;
+     margin-left:9%;
+    display:inline;
+    margin-top:10px;
+}
+
+.login-solar{
+    height:300px;
+    width:110% ;
+    
+    opacity:0.5px;
+}
+.continue-btn{
+    width:300px;
+    margin-top:10px;
+    background: orange;
+    color:white;
+    display:inline-block;
+    margin-left:9%;
+}
+.fa-lock{
+    
+    display:inline;
+    position:absolute;
+    margin-top:18px;
+    margin-right:100px;
+}
+.social-media{
+   margin-top:8%;  
+}
+.c{
+    display:inline;
+    color:orange;
+    margin-left:30px;
+    border :1px solid;
+        border-radius:100%;
+        padding:12px;
+   
+}
+}
